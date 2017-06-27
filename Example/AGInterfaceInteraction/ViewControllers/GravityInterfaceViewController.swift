@@ -9,8 +9,8 @@ import UIKit
 import AGInterfaceInteraction
 
 class GravityInterfaceViewController: UIViewController {
-    
     @IBOutlet weak var tableView: UITableView!
+    
     
     fileprivate lazy var scheduleRideService   : ScheduleRideService  =  ScheduleRideService ()
     

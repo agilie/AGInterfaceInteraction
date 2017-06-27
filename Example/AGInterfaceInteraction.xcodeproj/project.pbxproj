@@ -71,7 +71,7 @@
 		80E2659A1F01213600EB08FE /* GothamProRegular.woff in Resources */ = {isa = PBXBuildFile; fileRef = 80E2655E1F01213600EB08FE /* GothamProRegular.woff */; };
 		80E2659B1F01213600EB08FE /* ScheduleRideService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80E265601F01213600EB08FE /* ScheduleRideService.swift */; };
 		80E2659C1F01213600EB08FE /* GravityInterfaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80E265621F01213600EB08FE /* GravityInterfaceViewController.swift */; };
-		80E2659D1F01213600EB08FE /* GravityInterfaceViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 80E265631F01213600EB08FE /* GravityInterfaceViewController.xib */; };
+		80E265A51F01469700EB08FE /* GravityInterfaceViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 80E265A41F01469700EB08FE /* GravityInterfaceViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -155,7 +155,7 @@
 		80E2655E1F01213600EB08FE /* GothamProRegular.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = GothamProRegular.woff; sourceTree = "<group>"; };
 		80E265601F01213600EB08FE /* ScheduleRideService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScheduleRideService.swift; sourceTree = "<group>"; };
 		80E265621F01213600EB08FE /* GravityInterfaceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GravityInterfaceViewController.swift; sourceTree = "<group>"; };
-		80E265631F01213600EB08FE /* GravityInterfaceViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GravityInterfaceViewController.xib; sourceTree = "<group>"; };
+		80E265A41F01469700EB08FE /* GravityInterfaceViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GravityInterfaceViewController.xib; sourceTree = "<group>"; };
 		8A8959A82DA6C605874F7445 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		AAAB7A9D3646F2CAD0395F90 /* Pods-AGInterfaceInteraction_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AGInterfaceInteraction_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AGInterfaceInteraction_Example/Pods-AGInterfaceInteraction_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E9D80A07C4CF88A790B7CB4D /* AGInterfaceInteraction.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = AGInterfaceInteraction.podspec; path = ../AGInterfaceInteraction.podspec; sourceTree = "<group>"; };
@@ -522,7 +522,7 @@
 			isa = PBXGroup;
 			children = (
 				80E265621F01213600EB08FE /* GravityInterfaceViewController.swift */,
-				80E265631F01213600EB08FE /* GravityInterfaceViewController.xib */,
+				80E265A41F01469700EB08FE /* GravityInterfaceViewController.xib */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -667,7 +667,7 @@
 				80E2658F1F01213600EB08FE /* GothamProLightItalic.eot in Resources */,
 				80E265691F01213600EB08FE /* ChildCollectionViewCell.xib in Resources */,
 				80E265741F01213600EB08FE /* TripOptionTableViewCell.xib in Resources */,
-				80E2659D1F01213600EB08FE /* GravityInterfaceViewController.xib in Resources */,
+				80E265A51F01469700EB08FE /* GravityInterfaceViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
