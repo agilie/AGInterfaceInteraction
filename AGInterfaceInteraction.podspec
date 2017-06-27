@@ -8,7 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AGInterfaceInteraction'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
+  s.platform         = :ios, '8.0'
   s.summary          = 'AGInterfaceInteraction simplified interaction with gravity animation and mobile interfaces'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +25,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/agilie/AGInterfaceInteraction.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'kalamaznik' => 'vladimir.zgonik@agilie.com' }
+  s.author           = { 'Agilie' => 'info@agilie.com' }
   s.source           = { :git => 'https://github.com/agilie/AGInterfaceInteraction.git',:tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
