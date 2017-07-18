@@ -1,9 +1,35 @@
-# AGInterfaceInteraction
+<p align="center">
 
-[![CI Status](http://img.shields.io/travis/kalamaznik/AGInterfaceInteraction.svg?style=flat)](https://travis-ci.org/kalamaznik/AGInterfaceInteraction)
-[![Version](https://img.shields.io/cocoapods/v/AGInterfaceInteraction.svg?style=flat)](http://cocoapods.org/pods/AGInterfaceInteraction)
-[![License](https://img.shields.io/cocoapods/l/AGInterfaceInteraction.svg?style=flat)](http://cocoapods.org/pods/AGInterfaceInteraction)
-[![Platform](https://img.shields.io/cocoapods/p/AGInterfaceInteraction.svg?style=flat)](http://cocoapods.org/pods/AGInterfaceInteraction)
+<img src="https://user-images.githubusercontent.com/4165054/28317389-52c09c2c-6bcf-11e7-90a6-1d1e104b406d.png" alt="AGInterfaceInteraction" title="AGInterfaceInteraction" width="557"/>
+</p>
+
+<p>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.agilie.com?utm_source=github&utm_medium=referral&utm_campaign=Git_Swift&utm_term=AGInterfaceInteraction">
+<img src="https://img.shields.io/badge/Made%20by-Agilie-green.svg?style=flat" alt="Made by Agilie">
+</a>
+
+<a href="https://travis-ci.org/kalamaznik/AGInterfaceInteraction">
+<img src="http://img.shields.io/travis/agilie/AGInterfaceInteraction.svg?style=flat" alt="CI Status">
+</a>
+
+<a href="http://cocoapods.org/pods/AGInterfaceInteraction">
+<img src="https://img.shields.io/cocoapods/v/AGInterfaceInteraction.svg?style=flat" alt="Version">
+</a>
+
+<a href="http://cocoapods.org/pods/AGInterfaceInteraction">
+<img src="https://img.shields.io/cocoapods/l/AGInterfaceInteraction.svg?style=flat" alt="License">
+</a>
+
+<a href="http://cocoapods.org/pods/AGInterfaceInteraction">
+<img src="https://img.shields.io/cocoapods/p/AGInterfaceInteraction.svg?style=flat" alt="Platform">
+</a>
+
+</p>
 
 ### StartGravity:
 
@@ -54,7 +80,7 @@ pod "AGInterfaceInteraction"
 
 ## Author
 
-This library is open-sourced by [Agilie Team](https://www.agilie.com) info@agilie.com
+This library is open-sourced by [Agilie Team](https://www.agilie.com?utm_source=github&utm_medium=referral&utm_campaign=Git_Swift&utm_term=AGInterfaceInteraction) info@agilie.com
 
 ## Contributors
 
@@ -67,4 +93,4 @@ This library is open-sourced by [Agilie Team](https://www.agilie.com) info@agili
 
 ## License
 
-The [MIT](LICENSE.MD) License (MIT) Copyright © 2017 [Agilie Team](https://www.agilie.com)
+The [MIT](LICENSE.MD) License (MIT) Copyright © 2017 [Agilie Team](https://www.agilie.com?utm_source=github&utm_medium=referral&utm_campaign=Git_Swift&utm_term=AGInterfaceInteraction)
